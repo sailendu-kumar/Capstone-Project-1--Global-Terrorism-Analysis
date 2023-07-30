@@ -8,5 +8,3 @@ EDA can also uncover trends in terrorist tactics and weapons, such as the preval
 Additionally, EDA on GTAD allows for profiling terrorist groups and identifying their modus operandi. By exploring the characteristics of attacks attributed to specific organizations, analysts can gain insights into their motivations, targets, and strategies.
 
 In conclusion, EDA on the Global Terrorism Analysis Database plays a crucial role in unraveling patterns, trends, and characteristics of terrorist incidents, enabling a deeper understanding of the global terrorism landscape and informing counterterrorism efforts.
-
-https://github.com/sailendu-kumar/Capstone-Project-1--Global-Terrorism-Analysis/blob/main/Global_Terrorism_Dataset_Analysis_EDA_PROJECT_.ipynb
